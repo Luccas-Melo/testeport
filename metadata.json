@@ -1,0 +1,6 @@
+{
+  "name": "Æther - Cinematic Portfolio",
+  "description": "An immersive digital portfolio experience with cinematic visuals, interactive quantum particles, and responsive editorial layout transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
